@@ -1,0 +1,43 @@
+{
+  "name": "my-dao",
+  "version": "2.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "start": "react-scripts start",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@thirdweb-dev/react": "2.3.0",
+    "@thirdweb-dev/sdk": "2.2.11",
+    "@vitejs/plugin-legacy": "^2.0.0",
+    "@vitejs/plugin-react": "^2.0.0",
+    "ethers": "5.6.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "5.0.0",
+    "vite": "^3.0.3"
+  },
+  "description": "### **Bem vind@s 👋** Para iniciar com esse projeto, clone o repo e siga esses comandos:",
+  "main": "vite.config.js",
+  "devDependencies": {
+    "node": "^17.9.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
